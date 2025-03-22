@@ -23,10 +23,10 @@ Crush/
 
 ## 📸 Screenshots
 ### 🔥 Homepage
-![Homepage](https://via.placeholder.com/800x400/000000/00FF00?text=Crush+Messaging+App)
+![Homepage](https://i.ibb.co/mrjj9DB0/Screenshot-29.png/800x400/000000/00FF00?text=Crush+Messaging+App)
 
 ### 🕵️ Message Page
-![Message Page](https://via.placeholder.com/800x400/000000/00FF00?text=Secret+Message+Preview)
+![Message Page](https://i.ibb.co/qYFwBdT4/Screenshot-28.png/800x400/000000/00FF00?text=Secret+Message+Preview)
 
 ## 🚀 Usage
 1. **Clone the Repository**:
